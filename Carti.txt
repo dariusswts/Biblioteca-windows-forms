@@ -1,0 +1,9 @@
+titlu#autor#pagini#pret#exemplare#disponibila#cititor
+Ion#Liviu Rebreanu#380#35.5#4#true#
+Enigma Otiliei#George Calinescu#420#42#3#false#Elena Marin
+Morometii#Marin Preda#560#48.5#5#true#
+Baltagul#Mihail Sadoveanu#240#25#6#true#
+Maitreyi#Mircea Eliade#300#39.9#2#false#Radu Stoica
+Amintiri din copilarie#Ion Creanga#200#23#10#true#
+Poezii#Mihai Eminescu#180#30#8#true#
+Hanu Ancutei#Mihail Sadoveanu#150#18.75#12#true#
